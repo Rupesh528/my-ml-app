@@ -1,0 +1,22 @@
+body {
+    background-image: url("/airplane.jpg");
+    background-color: #95dbb2;
+    text-align: center;
+    padding: 0px;
+}
+
+.m1{
+    
+}
+
+.navbar {
+    background-color: #333333;
+}
+
+a {
+    color: #f1f9f9;
+}
+
+a:hover {
+    color: #f0f0f0;
+  }
